@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Loan Manager</string>
+    <string name="title_calcular">Calcular</string>
+    <string name="title_register">Registrar</string>
+    <string name="otra_conexion">ó</string>
+
+    <!--Cambiar dependiendo el pais-->
+    <string name="tipo_documento">DNI</string>
+    <integer name="cantidad_documento_max">8</integer>
+    <string name="tipo_moneda">S./ </string>
+    <string name="tipo_moneda_defecto">S./ 1000</string>
+    <string name="tipo_moneda_defecto_cero">S./ 0</string>
+
+    <string name="documento_vacío">DNI vacío</string>
+    <string name="documento_incompleto">DNI incompleto</string>
+    <string name="codigo_pais">51</string>
+
+    <!--App Settings-->
+    <string name="terms_conditions_acepto">Al hacer click en el botón "Continuar" , Aceptas nuestras <b>políticas de privacidad</b> y <b>términos de condición</b>.</string>
+    <string name="app_terms_conditions">Haciendo click en "registrarse", estoy de acuerdo con los Términos y condiciones de <b>%1$s</b>, y su <b>Política de privacidad</b></string>
+    <bool name="isFreeTrail">false</bool>
+
+    <!-- Login Strings-->
+    <string name="doesnt_have_account">¿No tienes una cuenta?</string>
+    <string name="create_account">Registrate aquí</string>
+    <string name="forget_pass">¿Has olvidado como ingresar?</string>
+
+    <!--User inactive-->
+    <string name="inactive_user">Usuario desactivado</string>
+
+
+    <string name="loading">Cargando...</string>
+    <string name="logout">Cerrar Sessión</string>
+
+
+</resources>
